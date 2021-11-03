@@ -9,11 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
+    "art-template": "^4.13.2",
     "express": "^4.17.1",
-    "express-validator": "^6.13.0",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.0.12",
-    "morgan": "^1.10.0"
+    "express-art-template": "^1.0.1"
   }
 }
